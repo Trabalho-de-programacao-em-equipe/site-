@@ -1,0 +1,65 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+
+}
+
+header{
+
+
+    background-color: #A28655;
+    padding: 20px;
+    
+   
+  }
+  
+  .elementosCabeçalho{
+  
+    display: flex;
+     
+    justify-content: space-between;
+   
+  
+  }
+  
+  .especificoElemento{
+  
+    text-decoration: none;
+    
+    color: black;
+  
+  }
+
+  .imagemLogo{
+
+    width: 150px;
+  
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+  
+  }
+
+  h1,p{
+
+    text-align: center;
+
+  }
+
+  .imagemContrato{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+  }
+
+  .botao{
+
+    text-align: center;
+    padding: 20px;
+  }
+
+  

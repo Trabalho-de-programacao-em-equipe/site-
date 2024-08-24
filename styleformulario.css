@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+
+}
+
+.imagemLogo{
+
+  width: 150px;
+
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.conteudogeral{
+
+  margin: 10px 300px 10px 300px;
+  border: solid black;
+  border-radius: 20px;
+}
+
+header{
+
+
+  background-color: #A28655;
+  padding: 20px;
+  
+ 
+}
+
+.elementosCabeçalho{
+
+  display: flex;
+   
+  justify-content: space-between;
+ 
+
+}
+
+.especificoElemento{
+
+  text-decoration: none;
+  
+  color: black;
+
+}
+
+
+
+h1{
+
+    text-align: center;
+}
+
+.arrumarFormulario{
+
+
+  
+   
+   display: flex;
+   flex-direction:column;
+   width: 300px;
+    padding: 20px;
+}
+
+.arrumarFormulario-escolha{
+
+  display: flex;
+  flex-direction: column;
+
+  width: 200px;
+  padding: 20px;
+  
+
+}
+
+#quadro{
+
+  width: 700px;
+  height: 100px;
+
+}
+
+.arrumarGeral{
+
+  display: flex;
+  flex-direction: row;
+
+  gap: 200px;
+  
+
+
+}
+
+.botao{
+
+
+  text-align: center;
+ 
+}

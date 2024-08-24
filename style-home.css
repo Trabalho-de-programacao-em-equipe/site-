@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&family=Katibeh&display=swap');
+
+h2{
+
+  font-family: "Girassol", serif;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Katibeh&display=swap');
+
+p{
+
+font-family: "Katibeh",serif;
+font-size: 30px;
+
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+
+}
+
+
+.conteudogeral{
+
+  margin: 20px 200px 20px 200px;
+ 
+}
+
+.imagemLogo{
+
+  width: 150px;
+
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+header{
+
+
+  background-color: #A28655;
+  padding: 20px;
+  width: 1830px;
+ 
+}
+
+.elementosCabeçalho{
+
+  display: flex;
+   
+  justify-content: space-between;
+ 
+
+}
+
+.especificoElemento{
+
+  text-decoration: none;
+  
+  color: black;
+
+}
+
+.escola{
+
+  width: 1860px;
+  height: 400px;
+ 
+}
+
+.imagensCasas {
+
+
+  width: 300px;
+ 
+ 
+
+}
+.anuncio{
+
+  width: 1860px;
+  height: 400px;
+
+}
+
+
+
+.alinharTexto{
+
+display: flex;
+column-gap: 20px;
+
+
+}
+h2{
+
+  text-align: center;
+}
+
+.arrumarTexto {
+
+
+padding: 50px;
+
+
+}
+
+.alinharTexto{
+
+ margin-top: 20px;
+
+
+}
+
+
+.imagensCasas{
+
+margin: 2opx;
+
+
+
+}
+
+.localizacao{
+
+  width: 400px;
+  border-radius: 20px;
+  box-shadow: rgb(85, 64, 37) 0px 20px 30px -10px;
+ 
+
+}
+.arrumarLocalizacao{
+
+  display: flex;
+  margin: 20px 200px 20px 200px;
+
+}
+
+.arrumarTexto-localizacao{
+
+  padding: 80px;
+
+
+}
+
+.rodape-alinhar{
+
+
+  text-align: left;
+ 
+
+}
+
+.rodape-alinhar2{
+
+
+  text-align: center;
+
+
+
+}
+
+.rodape-geral{
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+footer{
+
+  background-color: #A28655;
+  padding: 20px;
+  width: 1830px;
+
+}
+
+.Linksrodape{
+
+  display:flex;
+  flex-direction:column;
+
+}
+.imagens-logo{
+
+  width:40px;
+
+}
+
+.arrumarEscrita {
+
+  display:flex;
+
+  gap:20px;
+
+}
+
+.arrumar-instagrancurso{
+
+  display:flex;
+  gap:20px;
+  justify-content:center;
+
+}
+
+.arrumargeral{
+
+  display:flex;
+  gap:20px;
+  flex-direction:column;
+ 
+}
+
+.arrumar-instagramsala{
+
+  text-align:center;
+
+}
+
+.logoempresa{
+
+  width:100px;
+
+
+}
+
